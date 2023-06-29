@@ -1,0 +1,33 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 7%;
+}
+
+.conteudo{
+    width: 40%;
+}
+
+.texto{
+    font-size: 2rem;
+}
+
+.btn_home{
+    text-decoration: none;
+    padding: .6rem;
+    color: black;
+    width: 40%;
+    height: 3rem;
+    font-size: 1.4rem;
+    background-color: #68E3F4;
+    border: 3px solid white;
+    border-radius: 1rem;
+    transition: .3s all;
+}
+
+.btn_home:hover{
+    background-color: white;
+    border: 3px solid #68E3F4;
+}

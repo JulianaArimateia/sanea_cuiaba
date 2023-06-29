@@ -1,0 +1,11 @@
+@import url(geral/corpo.css);
+@import url(geral/cabecalho.css);
+
+@import url(home/conteudo.css);
+@import url(home/detalhes.css);
+
+@import url(denuncia/denuncia.css);
+
+@import url(responsivo/home.css);
+@import url(responsivo/cabecalho.css);
+@import url(responsivo/denuncia.css);

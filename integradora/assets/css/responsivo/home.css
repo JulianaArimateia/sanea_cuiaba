@@ -1,0 +1,31 @@
+@media only screen and (max-device-width: 950px) {
+    .home{
+        display: block;
+    }
+
+    .corpo{
+        padding-top: 18vh;
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .conteudo{
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .texto{
+        font-size: 1.3rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .imagem1{
+        width: 100%;
+        margin: auto;
+        margin-top: 1rem;
+    }
+}
